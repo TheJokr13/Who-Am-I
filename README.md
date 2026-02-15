@@ -18,8 +18,10 @@ I build systems, mechanics, and worlds. Currently focused on high-octane combat 
 
 ## The Lab (Work in Progress)
 Messing up is just another term for learning. Here are a few prototypes where I've been learning specific skills:
-* **Medoli's Scrapbook:** 2D in Unreal is a mess, but I'm all for it. (https://github.com/TheJokr13/Medoli-scrapbook)
-* **Uni work:** Physics-driven minigames to learn coherent and realistic applications of physics in-game. (https://github.com/TheJokr13/Physics-Levels)
+* **Medoli's Scrapbook:** 2D in Unreal is a mess, but I'm all for it.
+* (https://github.com/TheJokr13/Medoli-scrapbook)
+* **Uni work:** Physics-driven minigames to learn coherent and realistic applications of physics in-game.
+* (https://github.com/TheJokr13/Physics-Levels)
 ---
 
 ## Tech Stack
